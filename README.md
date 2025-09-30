@@ -13,14 +13,7 @@
 ---
 
 ## Objetivo
-Crear una página web sencilla y clara que permita dar a conocer a los usuarios
-información de gran utilidad sobre el centro de cómputo, facilitando el acceso a
-datos de contacto, horarios, reglamento, personal y servicios.  
-
-Con esta acción se busca dar a conocer el sistema de servicios del centro de
-cómputo para el uso libre de los estudiantes y, en caso de ser necesario, de los
-maestros, destacando la importancia de este lugar dentro de la Unidad
-Multidisciplinaria Tizimín.
+Crear una página web sencilla y clara que permita dar a conocer a los usuarios información de gran utilidad sobre el centro de cómputo, y con ello, facilitando el acceso a datos de contacto, horarios, reglamento, personal y servicios. al realizar esta acción buscamos el dar a conocer el sistema de servicios del centro de cómputo para el uso libre de los estudiantes, y en caso de darse, de los maestros, y con ello dando a conocer más la importancia de este lugar dentro de la Unidad Multidisciplinaria Tizimín.
 
 ---
 

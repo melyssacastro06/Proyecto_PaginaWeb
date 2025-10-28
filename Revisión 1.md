@@ -79,8 +79,7 @@ Este paso garantiza el aprendizaje continuo y el fortalecimiento del equipo.
 ---
 
 ##  Casos de uso principales
-
-
+[Imagen Casos de uso](Casos_de_uso.png)
 
 ---
 

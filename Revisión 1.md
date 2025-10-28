@@ -2,7 +2,7 @@
 
 ## Descripción general
 
-El proyecto consiste en el **diseño y desarrollo de una página web informativa** sobre el Centro de Cómputo de la UMT.  
+El proyecto consiste en el diseño y desarrollo de una página web informativa sobre el Centro de Cómputo de la UMT.  
 Su propósito es mostrar información relevante como el personal responsable, los becarios, los horarios de los centros (CC1 y CC2), el reglamento y los servicios que ofrece.
 
 ---

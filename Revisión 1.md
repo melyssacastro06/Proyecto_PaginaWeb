@@ -223,6 +223,6 @@ Revisado / Conclusiones: Se detectaron errores menores y se asignaron tareas de 
 ---
 
 ##  Prototipo
-[Link del prototipo en Figma] ([](https://www.figma.com/proto/HcdJdN4oPAIhU3Tz0NoASS/Untitled?node-id=0-1&t=4CTkS1A8oZVKuibk-1))
+[Link del prototipo en Figma] (https://www.figma.com/proto/HcdJdN4oPAIhU3Tz0NoASS/Untitled?node-id=0-1&t=4CTkS1A8oZVKuibk-1)
 ## Documento original
 📄 [Ver Revisión 1 en PDF](Revisión1_FIS.pdf)

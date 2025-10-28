@@ -225,4 +225,4 @@ Revisado / Conclusiones: Se detectaron errores menores y se asignaron tareas de 
 ##  Prototipo
 
 ## Documento original
-📄 [Ver Revisión 1 en PDF](Revisión 1_FIS.docx)
+📄 [Ver Revisión 1 en PDF](Revisión 1_FIS.pdf)

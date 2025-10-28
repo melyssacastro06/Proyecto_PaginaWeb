@@ -44,25 +44,37 @@ Desarrollar una página web informativa, funcional y accesible que proporcione a
 
 ##  Metodología – SCRUM
 
-Se utiliza la metodología **ágil Scrum**, por su enfoque iterativo y colaborativo.
+Para la elaboración de nuestra página web, adoptaremos la metodología ágil Scrum, ya que se ajusta perfectamente a las características de nuestro proyecto y a la forma de trabajo de nuestro equipo. Esta metodología nos permite desarrollar el producto mediante etapas cortas y planificadas, realizando entregas parciales y revisiones continuas que aseguran la mejora constante del sitio web.
+Scrum promueve una dinámica de trabajo colaborativa y organizada, donde cada integrante tiene un rol definido y participa activamente en la construcción del proyecto. Su enfoque permite adaptarse fácilmente a los cambios, mantener una comunicación constante y garantizar que cada avance contribuya al cumplimiento de los objetivos del equipo.
 
-### Roles del equipo
-- **Product Owner:** Melyssa Castro  
-- **Scrum Master:** Paola Cámara (Tester)  
-- **Equipo de desarrollo:** Julio Chan, Melyssa Castro, Lizeth Canché, José Antonio y Nalleli Polanco.
+## Roles dentro del equipo Scrum:
+•	Product Owner (Propietario del Producto): Representado por la líder del proyecto, Melyssa Castro, responsable de definir los objetivos, establecer las prioridades y garantizar que el producto final cumpla con las necesidades de los usuarios.
+•	Scrum Master: Rol desempeñado por Paola Cámara (Tester), encargada de facilitar la aplicación de la metodología Scrum, eliminar obstáculos y asegurar que el equipo siga los principios ágiles. Además, supervisa la calidad del desarrollo y el cumplimiento de los procesos establecidos.
+•	Equipo de Desarrollo: Conformado por Julio Chan y Melyssa Castro (programadores), Lizeth Canché (diseñadora), José Antonio (documentador) y Nalleli Janet Polanco (QA). Todos responsables de construir, probar y documentar las funcionalidades de la página web, garantizando la calidad y funcionalidad del producto final.
 
-### Etapas del trabajo
-1. **Sprint Planning:** definición de objetivos y tareas.  
-2. **Desarrollo:** trabajo en las funcionalidades y diseño.  
-3. **Daily Scrum:** reuniones breves de seguimiento.  
-4. **Sprint Review:** presentación de avances.  
-5. **Retrospectiva:** revisión de aciertos y mejoras.
+## Estructura de trabajo 
+1. Planificación del Sprint (Sprint Planning):
+El equipo se reúne para definir los objetivos del Sprint, establecer las tareas prioritarias y distribuir el trabajo según las habilidades de cada integrante.
+Durante esta fase también se define la duración del Sprint (por ejemplo, una o dos semanas).
+2. Ejecución del Sprint (Desarrollo):
+Cada integrante trabaja en las tareas asignadas (diseño, programación, documentación, pruebas, etc.), desarrollando versiones parciales de la página web.
+El equipo se comunica constantemente para resolver dudas y coordinar esfuerzos.
+3. Reuniones diarias (Daily Scrum):
+Se realizan reuniones breves para comentar los avances, dificultades o bloqueos que puedan afectar el progreso.
+Esto permite mantener la transparencia y colaboración dentro del grupo.
+4. Revisión del Sprint (Sprint Review):
+Al finalizar cada Sprint, se presentan los resultados obtenidos (por ejemplo, un prototipo funcional o una nueva sección de la página).
+Se recopila retroalimentación del equipo y se discuten los ajustes necesarios antes de pasar al siguiente ciclo.
+5. Retrospectiva (Sprint Retrospective):
+El equipo reflexiona sobre el trabajo realizado, identifica aciertos y áreas de mejora, y planifica cómo aplicar esas mejoras en el siguiente Sprint.
+Este paso garantiza el aprendizaje continuo y el fortalecimiento del equipo.
 
-**Beneficios:**
-- Organización y orden en el trabajo.
-- Comunicación constante.
-- Flexibilidad ante cambios.
-- Producto de mayor calidad.
+## Beneficios del uso de Scrum en nuestro proyecto
+Permite organizar mejor el trabajo y avanzar de forma ordenada.
+Mejora la comunicación y el trabajo en equipo.
+Da flexibilidad para realizar cambios cuando sea necesario.
+Ayuda a obtener un producto de mayor calidad gracias a las revisiones constantes.
+Facilita entregar avances funcionales que pueden revisarse y mejorarse antes de la versión final.
 
 ---
 

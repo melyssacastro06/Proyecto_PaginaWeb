@@ -1,20 +1,20 @@
-# 🌐 Proyecto FIS – Página Web del Centro de Cómputo UMT
+#  Proyecto FIS – Página Web del Centro de Cómputo UMT
 
-## 📘 Descripción general
+## Descripción general
 
 El proyecto consiste en el **diseño y desarrollo de una página web informativa** sobre el Centro de Cómputo de la UMT.  
 Su propósito es mostrar información relevante como el personal responsable, los becarios, los horarios de los centros (CC1 y CC2), el reglamento y los servicios que ofrece.
 
 ---
 
-## 🎯 Objetivo
+##  Objetivo
 
 Desarrollar una **página web informativa, funcional y accesible** que proporcione información clara y actualizada a los usuarios, especialmente a los nuevos estudiantes.  
 La página busca facilitar la consulta de información relevante y promover el uso adecuado de las instalaciones del Centro de Cómputo de la UMT.
 
 ---
 
-## ⚙️ Requisitos funcionales
+##  Requisitos funcionales
 
 | ID | Requisito funcional | Descripción | Prioridad | Fecha de reunión |
 |----|----------------------|--------------|------------|------------------|
@@ -32,7 +32,7 @@ La página busca facilitar la consulta de información relevante y promover el u
 
 ---
 
-## 🧩 Requisitos no funcionales
+##  Requisitos no funcionales
 
 - **Rendimiento:** la página debe ser rápida y estable, incluso con varios usuarios.
 - **Seguridad:** uso de HTTPS (SSL), copias de seguridad y encriptación básica.
@@ -42,7 +42,7 @@ La página busca facilitar la consulta de información relevante y promover el u
 
 ---
 
-## 🚀 Metodología – SCRUM
+##  Metodología – SCRUM
 
 Se utiliza la metodología **ágil Scrum**, por su enfoque iterativo y colaborativo.
 
@@ -66,7 +66,7 @@ Se utiliza la metodología **ágil Scrum**, por su enfoque iterativo y colaborat
 
 ---
 
-## 📄 Casos de uso principales
+##  Casos de uso principales
 
 - Visualizar catálogo del personal y becarios.  
 - Descargar documentos (reglamento, horarios).  
@@ -79,7 +79,7 @@ Se utiliza la metodología **ágil Scrum**, por su enfoque iterativo y colaborat
 
 ---
 
-## 🧰 Herramientas utilizadas
+##  Herramientas utilizadas
 
 | Propósito | Herramienta |
 |------------|-------------|
@@ -90,7 +90,7 @@ Se utiliza la metodología **ágil Scrum**, por su enfoque iterativo y colaborat
 
 ---
 
-## 📅 Diagrama de Gantt (resumen de sprints)
+##  Diagrama de Gantt (resumen de sprints)
 
 | Sprint | Etapa | Actividades principales | Fechas | Responsable(s) | Estado |
 |--------|--------|--------------------------|---------|----------------|--------|
@@ -130,7 +130,7 @@ Se utiliza la metodología **ágil Scrum**, por su enfoque iterativo y colaborat
 
 ---
 
-## 🗓️ Bitácoras
+##  Bitácoras
 
 **Bitácora 1 (15 sept)**  
 Reunión inicial: definición de objetivos y alcance.  
@@ -158,7 +158,7 @@ Conclusión: se asignaron tareas de mejora para el siguiente sprint.
 
 ---
 
-## 🧪 Prototipo
+##  Prototipo
 
 El prototipo fue desarrollado en **Figma** y representa la estructura visual de la página web, incluyendo:
 - Menú principal.

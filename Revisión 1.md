@@ -70,11 +70,11 @@ El equipo reflexiona sobre el trabajo realizado, identifica aciertos y áreas de
 Este paso garantiza el aprendizaje continuo y el fortalecimiento del equipo.
 
 ## Beneficios del uso de Scrum en nuestro proyecto
-Permite organizar mejor el trabajo y avanzar de forma ordenada.
-Mejora la comunicación y el trabajo en equipo.
-Da flexibilidad para realizar cambios cuando sea necesario.
-Ayuda a obtener un producto de mayor calidad gracias a las revisiones constantes.
-Facilita entregar avances funcionales que pueden revisarse y mejorarse antes de la versión final.
+- Permite organizar mejor el trabajo y avanzar de forma ordenada.
+- Mejora la comunicación y el trabajo en equipo.
+- Da flexibilidad para realizar cambios cuando sea necesario.
+- Ayuda a obtener un producto de mayor calidad gracias a las revisiones constantes.
+- Facilita entregar avances funcionales que pueden revisarse y mejorarse antes de la versión final.
 
 ---
 

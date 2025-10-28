@@ -9,8 +9,7 @@ Su propósito es mostrar información relevante como el personal responsable, lo
 
 ##  Objetivo
 
-Desarrollar una **página web informativa, funcional y accesible** que proporcione información clara y actualizada a los usuarios, especialmente a los nuevos estudiantes.  
-La página busca facilitar la consulta de información relevante y promover el uso adecuado de las instalaciones del Centro de Cómputo de la UMT.
+Desarrollar una página web informativa, funcional y accesible que proporcione a los usuarios especialmente a aquellos que son nuevos y aún no conocen el Centro de Cómputo información clara y actualizada sobre el personal responsable, los becarios, los horarios de los salones, el reglamento vigente de los salones de cómputo (CC1 y CC2) y los servicios disponibles. Además, busca facilitar a los estudiantes y al personal académico la consulta de información relevante y promover el uso adecuado de las instalaciones y servicios del Centro de Cómputo de la UMT.
 
 ---
 
@@ -34,11 +33,12 @@ La página busca facilitar la consulta de información relevante y promover el u
 
 ##  Requisitos no funcionales
 
-- **Rendimiento:** la página debe ser rápida y estable, incluso con varios usuarios.
-- **Seguridad:** uso de HTTPS (SSL), copias de seguridad y encriptación básica.
-- **Mantenibilidad:** código ordenado y documentado, uso de frameworks.
-- **Compatibilidad:** funcionamiento en navegadores y versiones recientes.
-- **Portabilidad:** adaptación a distintos dispositivos y sistemas operativos.
+- **Rendimiento:** Debemos de tratar de garantizar un uso cómodo en nuestra página web, que permite navegar de una forma que la página no esté lenta y no tenga problemas al albergar a una cantidad considerable de gente.
+- **Seguridad:** en términos de seguridad podríamos usar diferentes métodos de encriptación para poder mantener una mejor seguridad dentro de la página web, para así tener una mejor resistencia ante posibles ataques que puedan darse hacía la página, así mismo, crear copias de seguridad de las versiones que hagamos para ir llevando un seguimiento en cuanto a los cambios que se realicen y que puedan ir afectando durante su desarrollo y por último el uso de HTTPS (certificado SSL).
+- **Mantenibilidad:** a la hora de realizar nuestra página web, debemos de procurar de mantener un orden en cuanto al desarrollo de la página, por ello realizaríamos un código fuente claro y documentado para poder tener en orden la creación de este mismo, así mismo el uso de frameworks sobre páginas web nos sería de mucha utilidad.
+- **Compatibilidad:** Nuestra web debe de tener una compatibilidad con diferentes navegadores para así poder tener un campo amplio y mayor accesibilidad a la hora de ser consultada y también con las nuevas versiones que vayan saliendo de estas para así ahorrar un proceso de retocar código o de rehacerlo.
+- **Portabilidad:** Nuestra web debe de tener en cuenta el dispositivo y sistema operativo en el que se esté ejecutando ya que así podemos mantener esa forma de uso cómoda y eficiente con el que procuramos que cuente.
+
 
 ---
 
@@ -68,14 +68,7 @@ Se utiliza la metodología **ágil Scrum**, por su enfoque iterativo y colaborat
 
 ##  Casos de uso principales
 
-- Visualizar catálogo del personal y becarios.  
-- Descargar documentos (reglamento, horarios).  
-- Imprimir documentos.  
-- Visualizar el reglamento del centro de cómputo.  
-- Usar herramientas de zoom y vista.  
-- Consultar horarios de CC1 y CC2.  
-- Visualizar servicios ofrecidos.  
-- Contactar al personal mediante correo visible.
+
 
 ---
 
@@ -90,84 +83,133 @@ Se utiliza la metodología **ágil Scrum**, por su enfoque iterativo y colaborat
 
 ---
 
-##  Diagrama de Gantt (resumen de sprints)
+##  Diagrama de Gantt 
 
-| Sprint | Etapa | Actividades principales | Fechas | Responsable(s) | Estado |
-|--------|--------|--------------------------|---------|----------------|--------|
-| 0 | Planificación y requisitos | Reunión inicial, definición de requisitos, roles Scrum | 15–22 sept | Todo el equipo | ✅ Realizado |
-| 1 | Diseño del prototipo | Diseño en Figma, revisión visual | 23 sept – 6 oct | Lizeth, Melyssa | ✅ Terminado |
-| 2 | Desarrollo inicial | Programación de menú, personal, horarios y reglamento | 7–27 oct | Julio, Melyssa | ⚙️ En proceso |
-| 3 | Funcionalidades y pruebas | Descargas, impresión, controles de vista | 28 oct – 10 nov | Julio, Melyssa, Paola | ⏳ Pendiente |
-| 4 | Ajustes finales | Documentación técnica, QA, entrega final | 11–25 nov | Todo el equipo | 🔜 Pendiente |
+| Sprint / Etapa | Actividad | Fechas | Responsable(s) | Estado |
+|-----------------|------------|---------|----------------|--------|
+| **Sprint 0 – Planificación y requisitos** | Reunión inicial de planificación del proyecto | 15 de septiembre | Melyssa (Líder) | Realizado |
+| | Reunión para definir requisitos funcionales | 17 de septiembre | Todo el equipo | Realizado |
+| | Reunión para validar y ampliar requisitos | 22 de septiembre | Todo el equipo | Realizado |
+| | Asignación de roles Scrum (PO, SM, Dev Team) | 22 de septiembre | Melyssa | Realizado |
+| **Sprint 1 – Diseño del prototipo y estructura** | Diseño del prototipo en Figma | 23 sept – 1 oct | Lizeth (Diseñadora) | Terminado |
+| | Revisión del diseño (Sprint Review) | 2 oct | Todo el equipo | Realizado |
+| | Ajustes visuales y retroalimentación | 3 – 6 oct | Lizeth / Melyssa | Realizado |
+| **Sprint 2 – Desarrollo inicial de la página** | Programación del menú y navegación | 7 – 12 oct | Julio / Melyssa | Hecho |
+| | Sección “Personal y becarios” | 13 – 17 oct | Julio | Hecho |
+| | Sección “Horarios” y “Reglamento” | 18 – 22 oct | Melyssa | Hecho |
+| | Revisión de avance (Sprint Review) | 23 oct | Todo el equipo | Realizado |
+| | Correcciones y ajustes funcionales | 24 – 27 oct | QA (Nalleli) / Tester (Paola) | En proceso |
+| **Sprint 3 – Funcionalidades y pruebas** | Implementar descargas e impresión de documentos | 28 oct – 2 nov | Julio | Pendiente |
+| | Agregar controles de zoom y vista | 3 – 6 nov | Melyssa | Pendiente |
+| | Pruebas de compatibilidad y accesibilidad | 7 – 9 nov | Paola (Tester) / Nalleli (QA) | Pendiente |
+| | Revisión del Sprint y retroalimentación | 10 nov | Todo el equipo | Pendiente |
+| **Sprint 4 – Ajustes finales y documentación** | Revisión general del código y contenido | 11 – 15 nov | Melyssa / Julio | Pendiente |
+| | Elaboración de documentación técnica | 16 – 20 nov | José Antonio (Documentador) | Pendiente |
+| | Pruebas finales y control de calidad | 21 – 23 nov | Paola / Nalleli | Pendiente |
+| | **Entrega final del proyecto** | **25 nov** | **Todo el equipo** | **Pendiente** |
+
+
+## Hitos del proyecto:
+Finalización del Sprint 0 – Planificación y requisitos
+Fecha: 22 de septiembre
+Descripción: Roles definidos, requisitos funcionales consolidados y aprobados.
+Finalización del Sprint 1 – Diseño del prototipo
+Fecha: 6 de octubre
+Descripción: Prototipo inicial en Figma terminado y revisado.
+Finalización del Sprint 2 – Desarrollo inicial de la página
+Fecha: 27 de octubre
+Descripción: Secciones implementadas: menú, navegación, “Personal y becarios”, “Horarios” y “Reglamento”; revisión de avance y ajustes funcionales.
+Finalización del Sprint 3 – Funcionalidades y pruebas
+Fecha: 10 de noviembre
+Descripción: Funcionalidades implementadas (descargas, impresión, controles de vista), pruebas de compatibilidad y accesibilidad realizadas, revisión del sprint.
+Finalización del Sprint 4 – Ajustes finales y documentación
+Fecha: 25 de noviembre
+Descripción: Código y contenido revisados, documentación técnica elaborada, pruebas finales completadas y entrega final del proyecto.
 
 ---
 
 ## 👩‍💻 Roles del equipo
 
 ### Líder del proyecto – *Melyssa Castro*
-- Coordina y gestiona el proyecto.
-- Supervisa cronograma y avances.
-- Toma decisiones estratégicas.
+- Coordinación general del equipo y del proyecto
+- Gestión del cronograma y seguimiento de avances
+- Toma de decisiones estratégicas
+-	Resolución de conflictos y problemas
+-	Asegurar el cumplimiento de objetivos y fechas de entrega	
+
 
 ### Diseñadora – *Lizeth Canché*
-- Diseña el prototipo visual.
-- Define paleta de colores, tipografía y experiencia de usuario.
+- Creación del diseño visual y la experiencia de usuario
+-	Selección de paleta de colores, tipografía y elementos visuales
+-	Asegurar la consistencia visual en todo el proyecto
+-	Colaboración con el equipo de programación para implementar diseños	
 
 ### Programadores – *Melyssa Castro y Julio Chan*
-- Desarrollo front-end y back-end.
-- Implementación de funcionalidades y mantenimiento del código.
+- Desarrollo front-end y back-end 
+-	Implementación de funcionalidades requeridas
+-	Optimización del rendimiento del sitio web
+-	Colaboración con el diseñador para implementar los diseños
+-	Resolución de problemas técnicos
+-	Mantenimiento del código fuente y documentación técnicas 	
+
 
 ### Documentador – *José Antonio*
-- Documentación técnica y registros del proyecto.
+- Elaboración de documentación técnica
+-	Mantenimiento de registros de reuniones y acuerdos
+-	Organización de la documentación del proyecto
+Gestión de versiones de documentación
+
 
 ### Tester – *Paola Cámara*
-- Pruebas de funcionalidad y compatibilidad.
-- Reporte de errores y validación de la experiencia de usuario.
+- Pruebas de funcionalidad y usabilidad
+-	Identificación y reporte de bugs o errores
+-	Verificación de que el producto cumple con los requisitos
+-	Pruebas de compatibilidad en diferentes navegadores
+-	Validación de la experiencia de usuario
+
 
 ### QA – *Nalleli Janet Polanco*
-- Pruebas de calidad.
-- Verificación final del producto.
+-	Pruebas de funcionalidad
+-	Supervisión de la calidad del producto
+	Verificación de la funcionalidad de los requisitos
+
 
 ---
 
 ##  Bitácoras
 
 **Bitácora 1 (15 sept)**  
-Reunión inicial: definición de objetivos y alcance.  
-Conclusión: se asignaron responsabilidades iniciales.
+Fecha de reunión: 15 de septiembre
+Actividades realizadas: Reunión inicial de planificación del proyecto. Se definieron los objetivos generales y el alcance del proyecto.
+Revisado / Conclusiones: Se establecieron las bases del proyecto y se asignaron responsabilidades iniciales; se acordó comenzar a trabajar en la recopilación de requisitos funcionales.
 
 **Bitácora 2 (17 sept)**  
-Definición de requisitos funcionales.  
-Conclusión: se obtuvo listado preliminar de requisitos.
+Fecha de reunión: 17 de septiembre
+Actividades realizadas: Reunión para definir requisitos funcionales. Cada integrante aportó ideas y necesidades para el prototipo de la página.
+Revisado / Conclusiones: Se logró un listado preliminar de requisitos funcionales que servirán como guía para el diseño inicial del prototipo.
 
 **Bitácora 3 (22 sept)**  
-Validación de requisitos y asignación de roles Scrum.  
-Conclusión: se consolidaron requisitos finales.
+Fecha de reunión: 22 de septiembre
+Actividades realizadas: Reunión para validar y ampliar los requisitos. Se revisaron los puntos que faltaban y se ajustaron detalles según la viabilidad.
+Revisado / Conclusiones: Se consolidaron los requisitos funcionales finales y se asignaron roles Scrum (Product Owner, Scrum Master, Dev Team).
 
 **Bitácora 4 (2 oct)**  
-Revisión del diseño inicial (Sprint Review).  
-Conclusión: se planificaron ajustes visuales.
+Fecha de reunión: 2 de octubre
+Actividades realizadas: Revisión del diseño (Sprint Review). Se presentó el prototipo inicial realizado en Figma.
+Revisado / Conclusiones: Se analizaron aspectos visuales y de navegación; se recopilaron sugerencias y se planificaron ajustes visuales.
 
 **Bitácora 5 (23 oct)**  
-Revisión de avance de programación.  
-Conclusión: se validaron secciones y se detectaron ajustes.
+Fecha de reunión: 23 de octubre
+Actividades realizadas: Revisión de avance de la programación (Sprint Review). Se revisaron secciones ya implementadas: menú, navegación y secciones “Personal y becarios”, “Horarios” y “Reglamento”.
+Revisado / Conclusiones: Se validó que las secciones funcionan correctamente; se identificaron ajustes y correcciones pendientes.
 
 **Bitácora 6 (27 oct)**  
-Inicio de correcciones funcionales.  
-Conclusión: se asignaron tareas de mejora para el siguiente sprint.
+Fecha de reunión: 27 de octubre
+Actividades realizadas: Inicio de correcciones y ajustes funcionales. QA y tester revisan funcionalidades implementadas.
+Revisado / Conclusiones: Se detectaron errores menores y se asignaron tareas de corrección; se planifica avanzar con funcionalidades nuevas en el próximo sprint.
 
 ---
 
 ##  Prototipo
 
-El prototipo fue desarrollado en **Figma** y representa la estructura visual de la página web, incluyendo:
-- Menú principal.
-- Secciones informativas (personal, horarios, reglamento, servicios).
-- Pie de página con datos de contacto.
 
-🖼️ **Nota:**  
-Para incluir las imágenes del prototipo o capturas, colócalas en una carpeta llamada `images/` dentro del repositorio y agrégalas así en el Markdown:
-
-```markdown
-![Prototipo - Inicio](images/prototipo_inicio.png)
-![Prototipo - Servicios](images/prototipo_servicios.png)

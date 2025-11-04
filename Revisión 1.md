@@ -48,9 +48,9 @@ Para la elaboración de nuestra página web, adoptaremos la metodología ágil S
 Scrum promueve una dinámica de trabajo colaborativa y organizada, donde cada integrante tiene un rol definido y participa activamente en la construcción del proyecto. Su enfoque permite adaptarse fácilmente a los cambios, mantener una comunicación constante y garantizar que cada avance contribuya al cumplimiento de los objetivos del equipo.
 
 ## Roles dentro del equipo Scrum:
-•	Product Owner (Propietario del Producto): Representado por la líder del proyecto, Melyssa Castro, responsable de definir los objetivos, establecer las prioridades y garantizar que el producto final cumpla con las necesidades de los usuarios.
-•	Scrum Master: Rol desempeñado por Paola Cámara (Tester), encargada de facilitar la aplicación de la metodología Scrum, eliminar obstáculos y asegurar que el equipo siga los principios ágiles. Además, supervisa la calidad del desarrollo y el cumplimiento de los procesos establecidos.
-•	Equipo de Desarrollo: Conformado por Julio Chan y Melyssa Castro (programadores), Lizeth Canché (diseñadora), José Antonio (documentador) y Nalleli Janet Polanco (QA). Todos responsables de construir, probar y documentar las funcionalidades de la página web, garantizando la calidad y funcionalidad del producto final.
+- Product Owner (Propietario del Producto): Representado por la líder del proyecto, Melyssa Castro, responsable de definir los objetivos, establecer las prioridades y garantizar que el producto final cumpla con las necesidades de los usuarios.
+- Scrum Master: Rol desempeñado por Paola Cámara (Tester), encargada de facilitar la aplicación de la metodología Scrum, eliminar obstáculos y asegurar que el equipo siga los principios ágiles. Además, supervisa la calidad del desarrollo y el cumplimiento de los procesos establecidos.
+- Equipo de Desarrollo: Conformado por Julio Chan y Melyssa Castro (programadores), Lizeth Canché (diseñadora), José Antonio (documentador) y Nalleli Janet Polanco (QA). Todos responsables de construir, probar y documentar las funcionalidades de la página web, garantizando la calidad y funcionalidad del producto final.
 
 ## Estructura de trabajo 
 1. Planificación del Sprint (Sprint Planning):

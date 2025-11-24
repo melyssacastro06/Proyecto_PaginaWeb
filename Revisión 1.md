@@ -242,6 +242,7 @@ Revisado / Conclusiones: Se corrigieron inconsistencias visuales y se mejoraron 
 Fecha de reunión: 21 de noviembre
 Actividades realizadas: Pruebas finales y control de calidad del sitio web.
 Revisado / Conclusiones: Se validaron todos los requisitos funcionales y no funcionales. Se realizaron pruebas de usuario, se corrigieron errores menores y se dejó lista la plataforma para su entrega.
+
 ---
 
 ##  Prototipo

@@ -69,11 +69,11 @@ https://www.figma.com/proto/HcdJdN4oPAIhU3Tz0NoASS/Untitled?node-id=0-1&t=4CTkS1
 
 **Prueba 1: Pruebas de Navegación**
 Objetivo: Confirmar que el menú y los enlaces internos funcionen correctamente y lleven a las secciones adecuadas.
-Actividades realizadas:
+-Actividades realizadas:
 •	Se probó cada opción del menú.
 •	Se verificó que los botones redirigieran a su sección correspondiente.
 •	Se revisó que no existieran enlaces rotos.
-Resultado:
+-Resultado:
 La navegación funcionó correctamente en todas las secciones. No se detectaron enlaces rotos y el desplazamiento entre páginas fue fluido.
 
 **Prueba 2: Prueba de Visualización del Contenido**

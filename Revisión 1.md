@@ -105,18 +105,18 @@ Este paso garantiza el aprendizaje continuo y el fortalecimiento del equipo.
 | **Sprint 1 – Diseño del prototipo y estructura** | Diseño del prototipo en Figma | 23 sept – 1 oct | Lizeth (Diseñadora) | Terminado |
 | | Revisión del diseño (Sprint Review) | 2 oct | Todo el equipo | Realizado |
 | | Ajustes visuales y retroalimentación | 3 – 6 oct | Lizeth / Melyssa | Realizado |
-| **Sprint 2 – Desarrollo inicial de la página** | Programación del menú y navegación | 7 – 12 oct | Julio / Melyssa | Hecho |
-| | Sección “Personal y becarios” | 13 – 17 oct | Julio | Hecho |
-| | Sección “Horarios” y “Reglamento” | 18 – 22 oct | Melyssa | Hecho |
+| **Sprint 2 – Desarrollo inicial de la página** | Programación del menú y navegación | 7 – 12 oct | Julio / Melyssa | Realizado |
+| | Sección “Personal y becarios” | 13 – 17 oct | Julio | Realizado |
+| | Sección “Horarios” y “Reglamento” | 18 – 22 oct | Melyssa | Realizado |
 | | Revisión de avance (Sprint Review) | 23 oct | Todo el equipo | Realizado |
-| | Correcciones y ajustes funcionales | 24 – 27 oct | QA (Nalleli) / Tester (Paola) | En proceso |
-| **Sprint 3 – Funcionalidades y pruebas** | Implementar descargas e impresión de documentos | 28 oct – 2 nov | Julio | Pendiente |
-| | Agregar controles de zoom y vista | 3 – 6 nov | Melyssa | Pendiente |
-| | Pruebas de compatibilidad y accesibilidad | 7 – 9 nov | Paola (Tester) / Nalleli (QA) | Pendiente |
-| | Revisión del Sprint y retroalimentación | 10 nov | Todo el equipo | Pendiente |
-| **Sprint 4 – Ajustes finales y documentación** | Revisión general del código y contenido | 11 – 15 nov | Melyssa / Julio | Pendiente |
-| | Elaboración de documentación técnica | 16 – 20 nov | José Antonio (Documentador) | Pendiente |
-| | Pruebas finales y control de calidad | 21 – 23 nov | Paola / Nalleli | Pendiente |
+| | Correcciones y ajustes funcionales | 24 – 27 oct | QA (Nalleli) / Tester (Paola) | Realizado |
+| **Sprint 3 – Funcionalidades y pruebas** | Implementar descargas e impresión de documentos | 28 oct – 2 nov | Julio | Realizado |
+| | Agregar controles de zoom y vista | 3 – 6 nov | Melyssa | Realizado |
+| | Pruebas de compatibilidad y accesibilidad | 7 – 9 nov | Paola (Tester) / Nalleli (QA) | Realizado |
+| | Revisión del Sprint y retroalimentación | 10 nov | Todo el equipo | Realizado |
+| **Sprint 4 – Ajustes finales y documentación** | Revisión general del código y contenido | 11 – 15 nov | Melyssa / Julio | Realizado |
+| | Elaboración de documentación técnica | 16 – 20 nov | José Antonio (Documentador) | Realizado |
+| | Pruebas finales y control de calidad | 21 – 23 nov | Paola / Nalleli | Realizado |
 | | **Entrega final del proyecto** | **25 nov** | **Todo el equipo** | **Pendiente** |
 
 

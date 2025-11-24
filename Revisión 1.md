@@ -34,7 +34,6 @@ Desarrollar una página web informativa, funcional y accesible que proporcione a
 ##  Requisitos no funcionales
 
 - **Rendimiento:** Debemos de tratar de garantizar un uso cómodo en nuestra página web, que permite navegar de una forma que la página no esté lenta y no tenga problemas al albergar a una cantidad considerable de gente.
-- **Seguridad:** en términos de seguridad podríamos usar diferentes métodos de encriptación para poder mantener una mejor seguridad dentro de la página web, para así tener una mejor resistencia ante posibles ataques que puedan darse hacía la página, así mismo, crear copias de seguridad de las versiones que hagamos para ir llevando un seguimiento en cuanto a los cambios que se realicen y que puedan ir afectando durante su desarrollo y por último el uso de HTTPS (certificado SSL).
 - **Mantenibilidad:** a la hora de realizar nuestra página web, debemos de procurar de mantener un orden en cuanto al desarrollo de la página, por ello realizaríamos un código fuente claro y documentado para poder tener en orden la creación de este mismo, así mismo el uso de frameworks sobre páginas web nos sería de mucha utilidad.
 - **Compatibilidad:** Nuestra web debe de tener una compatibilidad con diferentes navegadores para así poder tener un campo amplio y mayor accesibilidad a la hora de ser consultada y también con las nuevas versiones que vayan saliendo de estas para así ahorrar un proceso de retocar código o de rehacerlo.
 - **Portabilidad:** Nuestra web debe de tener en cuenta el dispositivo y sistema operativo en el que se esté ejecutando ya que así podemos mantener esa forma de uso cómoda y eficiente con el que procuramos que cuente.
@@ -102,7 +101,7 @@ Este paso garantiza el aprendizaje continuo y el fortalecimiento del equipo.
 | | Reunión para definir requisitos funcionales | 17 de septiembre | Todo el equipo | Realizado |
 | | Reunión para validar y ampliar requisitos | 22 de septiembre | Todo el equipo | Realizado |
 | | Asignación de roles Scrum (PO, SM, Dev Team) | 22 de septiembre | Melyssa | Realizado |
-| **Sprint 1 – Diseño del prototipo y estructura** | Diseño del prototipo en Figma | 23 sept – 1 oct | Lizeth (Diseñadora) | Terminado |
+| **Sprint 1 – Diseño del prototipo y estructura** | Diseño del prototipo en Figma | 23 sept – 1 oct | Lizeth (Diseñadora) | Realizado |
 | | Revisión del diseño (Sprint Review) | 2 oct | Todo el equipo | Realizado |
 | | Ajustes visuales y retroalimentación | 3 – 6 oct | Lizeth / Melyssa | Realizado |
 | **Sprint 2 – Desarrollo inicial de la página** | Programación del menú y navegación | 7 – 12 oct | Julio / Melyssa | Realizado |
@@ -117,7 +116,7 @@ Este paso garantiza el aprendizaje continuo y el fortalecimiento del equipo.
 | **Sprint 4 – Ajustes finales y documentación** | Revisión general del código y contenido | 11 – 15 nov | Melyssa / Julio | Realizado |
 | | Elaboración de documentación técnica | 16 – 20 nov | José Antonio (Documentador) | Realizado |
 | | Pruebas finales y control de calidad | 21 – 23 nov | Paola / Nalleli | Realizado |
-| | **Entrega final del proyecto** | **25 nov** | **Todo el equipo** | **Pendiente** |
+| | **Entrega final del proyecto** | **24 nov** | **Todo el equipo** | **Pendiente** |
 
 
 ## Hitos del proyecto:
@@ -134,7 +133,7 @@ Finalización del Sprint 3 – Funcionalidades y pruebas
 Fecha: 10 de noviembre
 Descripción: Funcionalidades implementadas (descargas, impresión, controles de vista), pruebas de compatibilidad y accesibilidad realizadas, revisión del sprint.
 Finalización del Sprint 4 – Ajustes finales y documentación
-Fecha: 25 de noviembre
+Fecha: 23 de noviembre
 Descripción: Código y contenido revisados, documentación técnica elaborada, pruebas finales completadas y entrega final del proyecto.
 
 ---
@@ -219,6 +218,30 @@ Fecha de reunión: 27 de octubre
 Actividades realizadas: Inicio de correcciones y ajustes funcionales. QA y tester revisan funcionalidades implementadas.
 Revisado / Conclusiones: Se detectaron errores menores y se asignaron tareas de corrección; se planifica avanzar con funcionalidades nuevas en el próximo sprint.
 
+**Bitácora 7 — 3 de noviembre**
+Fecha de reunión: 3 de noviembre
+Actividades realizadas: Implementación de funcionalidades: controles de zoom, vista previa e impresión de documentos.
+Revisado / Conclusiones: Se completaron parcialmente las nuevas funcionalidades. Se programaron pruebas específicas para verificar compatibilidad y rendimiento.
+
+**Bitácora 8 — 7 de noviembre**
+Fecha de reunión: 7 de noviembre
+Actividades realizadas: Pruebas de compatibilidad en navegadores principales y pruebas de accesibilidad.
+Revisado / Conclusiones: Se detectaron pequeños detalles visuales y de formato en ciertos navegadores. Se registraron las observaciones y se asignaron tareas de corrección.
+
+**Bitácora 9 — 10 de noviembre**
+Fecha de reunión: 10 de noviembre
+Actividades realizadas: Sprint Review del Sprint 3. Se revisaron las funcionalidades implementadas: descargas, impresión, controles de zoom y vista.
+Revisado / Conclusiones: La mayoría de las funcionalidades fueron aprobadas. Se recibieron recomendaciones para optimizar la experiencia del usuario y mejorar el rendimiento.
+
+**Bitácora 10 — 15 de noviembre**
+Fecha de reunión: 15 de noviembre
+Actividades realizadas: Revisión general del código y contenido de todas las secciones. Ajustes en diseño y estructura del sitio.
+Revisado / Conclusiones: Se corrigieron inconsistencias visuales y se mejoraron transiciones y tiempos de carga. Se dejó lista la base del sitio para pruebas finales.
+
+**Bitácora 11 — 21 de noviembre**
+Fecha de reunión: 21 de noviembre
+Actividades realizadas: Pruebas finales y control de calidad del sitio web.
+Revisado / Conclusiones: Se validaron todos los requisitos funcionales y no funcionales. Se realizaron pruebas de usuario, se corrigieron errores menores y se dejó lista la plataforma para su entrega.
 ---
 
 ##  Prototipo

@@ -73,26 +73,31 @@ Objetivo: Confirmar que el menú y los enlaces internos funcionen correctamente 
 Actividades realizadas:
 •	Se probó cada opción del menú.
 •	Se verificó que los botones redirigieran a su sección correspondiente.
-•	Se revisó que no existieran enlaces rotos.
+•	Se revisó que no existieran enlaces rotos.  
+
 -Resultado:
 La navegación funcionó correctamente en todas las secciones. No se detectaron enlaces rotos y el desplazamiento entre páginas fue fluido.
 
 **Prueba 2: Prueba de Visualización del Contenido**
-Objetivo: Asegurar que la información (texto, imágenes, tablas y PDFs) se muestre correctamente.
+Objetivo: Asegurar que la información (texto, imágenes, tablas y PDFs) se muestre correctamente.  
+
 Actividades realizadas:
 •	Revisión de la correcta carga de imágenes de personal y becarios.
 •	Comprobación del formato y alineación del texto.
-•	Verificación de que los documentos PDF se visualizaran y descargaran sin problemas.
+•	Verificación de que los documentos PDF se visualizaran y descargaran sin problemas.  
+
 Resultado:
 Las imágenes cargaron correctamente, los textos se mostraron legibles y bien distribuidos, y los PDF pudieron abrirse y descargarse sin errores.
 
 **Prueba 3: Pruebas de Responsividad**
-Objetivo: Validar que la página se adapte a distintos dispositivos (computadora, tablet y móvil).
+Objetivo: Validar que la página se adapte a distintos dispositivos (computadora, tablet y móvil).  
+
 Actividades realizadas:
 •	Pruebas en diferentes resoluciones de pantalla.
 •	Simulación de dispositivos móviles mediante herramientas del navegador.
 •	Revisión del menú en versión móvil (hamburguesa).
-•	Verificación de ajuste de imágenes y tamaños de texto.
+•	Verificación de ajuste de imágenes y tamaños de texto.  
+
 Resultado:
 El sitio se adaptó correctamente en todos los tamaños probados. El menú se convirtió adecuadamente en menú móvil. No se encontraron problemas de corte o desbordamiento de contenido.
 
@@ -101,31 +106,36 @@ Objetivo: Comprobar que la página funcione correctamente en distintos navegador
 Navegadores utilizados:
 •	Google Chrome
 •	Mozilla Firefox
-•	Microsoft Edge
-•	Safari (en simulación)
+•	Microsoft Edge 
+
 Actividades realizadas:
 •	Carga completa de la página en cada navegador.
 •	Revisión del diseño y estilos.
-•	Prueba de descarga de documentos.
+•	Prueba de descarga de documentos.  
+
 Resultado:
 La página funcionó correctamente en todos los navegadores probados. Solo se notaron ligeras variaciones en fuentes en Firefox, pero no afectaron el funcionamiento.
 
 **Prueba 5: Pruebas de Funcionalidades (Botones y PDFs)**
-Objetivo: Validar que los botones principales respondan correctamente y que los documentos funcionen.
+Objetivo: Validar que los botones principales respondan correctamente y que los documentos funcionen.  
+
 Actividades realizadas:
 •	Prueba del botón de descarga del reglamento.
 •	Prueba del botón de descarga de horarios.
 •	Comprobación de enlaces externos.
-•	Ensayo de botones de regresar o volver al inicio.
+•	Ensayo de botones de regresar o volver al inicio.  
+
 Resultado:
 Todos los botones realizaron su función de manera correcta. Los documentos se descargaron sin errores y los enlaces funcionaron adecuadamente.
 
 **Prueba 6: Pruebas de Rendimiento Básico**
-Objetivo: Evaluar tiempos de carga y fluidez al navegar entre secciones.
+Objetivo: Evaluar tiempos de carga y fluidez al navegar entre secciones.  
+
 Actividades realizadas:
 •	Medición del tiempo de carga de la página principal.
 •	Prueba de desplazamiento rápido entre secciones.
-•	Revisión del tamaño y peso de imágenes.
+•	Revisión del tamaño y peso de imágenes.  
+
 Resultado:
 El sitio cargó de manera rápida y sin retrasos. Las imágenes optimizadas ayudaron a mantener un buen rendimiento.
 
